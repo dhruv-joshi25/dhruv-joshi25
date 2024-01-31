@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A responsive frontend developer</h3>
 
-<img align="center" alt="image" width="400" src="https://media.licdn.com/dms/image/C5616AQFkHMaIn-zAAg/profile-displaybackgroundimage-shrink_200_800/0/1637322060430?e=2147483647&v=beta&t=DavYtifunMUmAP2FTSFDpUeDXsBC_DXAvowtaCYgxic">
+<img align="center" alt="image" width="100%" src="https://media.licdn.com/dms/image/C5616AQFkHMaIn-zAAg/profile-displaybackgroundimage-shrink_200_800/0/1637322060430?e=2147483647&v=beta&t=DavYtifunMUmAP2FTSFDpUeDXsBC_DXAvowtaCYgxic">
 
 - 🌱 I’m currently learning **Web development by self**
 
