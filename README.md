@@ -5,6 +5,8 @@
 
 <hr>
 
+- 👨‍🎓 A responsive frontend developer
+  
 - 🌱 I’m currently learning **Web development by self**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruv-joshi25](https://github.com/dhruv-joshi25)
