@@ -2,8 +2,6 @@
 <hr>
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 
-<hr>
-
 - 👨‍🎓 A responsive frontend developer
   
 - 🌱 I’m currently learning **Web development by self**
