@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="[/assets/programmer.gif](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfH-T7DXg0GZ7a9q4ztjjvrva5cAYpatzM4KQqTqOhHP6YuGpE)" alt="Coding gif" />
 
 - 👨‍🎓 A responsive frontend developer
 - 🌱 I’m currently learning **Web development by self**
