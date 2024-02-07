@@ -10,13 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruv-joshi25](https://github.com/dhruv-joshi25)
 
-<p align="left">
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-joshi25&show_icons=true&locale=en&layout=compact" alt="dhruv-joshi25" /></p>
-
-<p align="left">
 
 <p align="center">
 
