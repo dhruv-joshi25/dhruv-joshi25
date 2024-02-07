@@ -9,7 +9,7 @@
 <br/><br/>
 - 🌱 I’m currently learning **Web development by self**
 <br/><br/>
-- 👨‍💻 All of my projects are available [here](https://github.com/dhruv-joshi25)
+- 👨‍💻 All of my projects are available <a href="https://github.com/dhruv-joshi25" target="_blank">here</a>
 
 
  <br>
