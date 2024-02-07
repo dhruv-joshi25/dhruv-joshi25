@@ -8,8 +8,7 @@
 - 👨‍🎓 A responsive frontend developer
 - 🌱 I’m currently learning **Web development by self**
 
-- 👨‍💻 All of my projects are available at <a href="[https://github.com/dhruv-joshi25](https://github.com/dhruv-joshi25)" target="_blank" rel="noopener noreferrer">Link</a>
-
+- 👨‍💻 All of my projects are available at [Link](https://github.com/dhruv-joshi25)
 
 <p align="center">
 
