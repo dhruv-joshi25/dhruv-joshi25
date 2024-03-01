@@ -1,4 +1,4 @@
-<img align="center" alt="image" width="100%" src="https://i.pinimg.com/564x/3e/31/0d/3e310da78ed179515dafc176ffb7a151.jpg">
+<img align="center" alt="image" width="100%" src="https://imgs.search.brave.com/kzhC7UWtrV-SE00ygKyK_lpMMtajbcwwcG11npco3Mo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/czBxL3N0eWxlcy9i/YW5uZXJCYWNrZ3Jv/dW5kSW1hZ2VfN2ds/Y2dnNXlteHAyMS5w/bmc">
 <hr>
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
