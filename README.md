@@ -1,4 +1,4 @@
-<img align="center" alt="image" width="100%" src="https://media.licdn.com/dms/image/C5616AQFkHMaIn-zAAg/profile-displaybackgroundimage-shrink_200_800/0/1637322060430?e=2147483647&v=beta&t=DavYtifunMUmAP2FTSFDpUeDXsBC_DXAvowtaCYgxic">
+<img align="center" alt="image" width="100%" src="https://i.pinimg.com/564x/3e/31/0d/3e310da78ed179515dafc176ffb7a151.jpg">
 <hr>
 
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
